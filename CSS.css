@@ -30,7 +30,6 @@
 }
 #home {
 	display: block;
-	background-color: orange;
 	float:right;
 	padding-left: 10px;
 	padding-right: 10px;
@@ -38,14 +37,12 @@
 }
 #game {
 	display: block;
-	background-color: yellow;
 	float:right;
 	padding-right: 10px;
 	padding-left: 10px;
 	padding-top: 15px;
 }
 #about {
-	background-color: white;
 	display: block;
 	float:right;
 	padding-right: 10px;
