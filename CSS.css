@@ -30,21 +30,21 @@
 }
 #home {
 	display: block;
-	float:right;
+	float: right;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-top: 15px;
 }
 #game {
 	display: block;
-	float:right;
+	float: right;
 	padding-right: 10px;
 	padding-left: 10px;
 	padding-top: 15px;
 }
 #about {
 	display: block;
-	float:right;
+	float: right;
 	padding-right: 10px;
 	padding-left: 10px;
 	padding-top: 15px;
